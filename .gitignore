@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore old folder
+old/
+.streamlit/
+
+
+Canvas_Discussion_Exports/
+Community of Practice 2024 - Generative AI
+.env
